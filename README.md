@@ -1,4 +1,4 @@
-# [Elzero Web School - HTML CSS Template 01](https://mouatezbenariba.github.io/template-html-css-01/)
+# [Elzero Web School - HTML CSS Template 01]
 - This is a solution to [<b>"HTML & CSS Practice n°:01"</b>](https://elzero.org/practical-html-css/) on [<b>Elzero Web School</b>](https://elzero.org/).
 
 ## Overview
@@ -12,10 +12,7 @@
 
 ![Landing Page & lightouse report](https://github.com/mouatezbenariba/template-html-css-01/blob/main/images/screenshot01.PNG)
 
-### Links
-
-- Live Site URL: [Leon Template](https://mouatezbenariba.github.io/template-html-css-01/)
-
+ 
 ### Built with
 
 - HTML5
@@ -55,10 +52,6 @@ Areas and concepts that I want to continue focusing on in future projects :
 ## Author
 - [Graphberry - graphic resource](https://www.graphberry.com/)
 
-## Cloned By
-- Linkedin - [Elmouatez Billah Benariba](https://www.linkedin.com/in/mouatezbenariba/)
-- Twitter - [@mouatezbenariba](https://twitter.com/mouatezbenariba)
-- Instagram - [@mouatez.benariba](https://www.instagram.com/mouatez.benariba/)
-
+ 
 ## Acknowledgments
 - I would like to express my special thanks of gratitude to eng [Osama Mohamed](https://github.com/OsamaElzero).
